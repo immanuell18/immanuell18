@@ -4,9 +4,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=200&section=header&text=Immanuel%20Lumban%20Gaol&fontSize=45&fontColor=58a6ff&animation=fadeIn&fontAlignY=38&desc=Junior%20Backend%20Developer%20%7C%20Indonesia%20🇮🇩&descAlignY=58&descSize=18&descColor=8b949e" />
 
 <!-- Animated Typing -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=💻+Passionate+Backend+Developer;🚀+Building+Cool+Web+Apps;🎮+Game+Dev+Enthusiast;⚡+PHP+%7C+Laravel+%7C+React+%7C+Node.js;🌱+Always+Learning+New+Things!" alt="Typing SVG" />
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=600&lines=%F0%9F%92%BB+Passionate+Backend+Developer;%F0%9F%9A%80+Building+Cool+Web+Apps;%F0%9F%8E%AE+Game+Dev+Enthusiast;%E2%9A%A1+PHP+%7C+Laravel+%7C+React+%7C+Node.js;%F0%9F%8C%B1+Always+Learning+New+Things!" alt="Typing SVG" />
 
 <br/>
 
@@ -45,7 +43,7 @@ Status   : Open to Collaborate 🤝
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=immanuell18&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=immanuell18&theme=tokyonight&no-frame=true&margin-w=4&column=6" alt="GitHub Trophies"/>
 </div>
 
 ---
