@@ -1,164 +1,185 @@
+# <div align="center">🚀 Welcome to Immanuel Github 🚀</div>
+
 <div align="center">
-
-<!-- Animated Wave Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=200&section=header&text=Immanuel%20Lumban%20Gaol&fontSize=45&fontColor=58a6ff&animation=fadeIn&fontAlignY=38&desc=Junior%20Backend%20Developer%20%7C%20Indonesia%20🇮🇩&descAlignY=58&descSize=18&descColor=8b949e" />
-
-<!-- Animated Typing -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=600&lines=%F0%9F%92%BB+Passionate+Backend+Developer;%F0%9F%9A%80+Building+Cool+Web+Apps;%F0%9F%8E%AE+Game+Dev+Enthusiast;%E2%9A%A1+PHP+%7C+Laravel+%7C+React+%7C+Node.js;%F0%9F%8C%B1+Always+Learning+New+Things!" alt="Typing SVG" />
-
-<br/>
-
-<!-- Profile Views & Followers -->
-<p>
-  <img src="https://komarev.com/ghpvc/?username=immanuell18&label=Profile+Views&color=58a6ff&style=for-the-badge" alt="Profile Views"/>
-  &nbsp;
-  <img src="https://img.shields.io/github/followers/immanuell18?label=Followers&style=for-the-badge&color=58a6ff&labelColor=0d1117" alt="Followers"/>
-</p>
-
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Hey+there!+I'm+Immanuel+Lumban+Gaol+%F0%9F%91%8B;Full+Stack+Developer+%F0%9F%92%BB;UI%2FUX+Enthusiast+%F0%9F%8E%A8;Computer+Science+Student+%F0%9F%8E%93;Building+Digital+Solutions+%F0%9F%8C%9F" alt="Typing SVG" />
 </div>
 
----
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
 
-## 🧑‍💻 About Me
+## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About Me***
 
-```yaml
-Name     : Immanuel Lumban Gaol
-Alias    : Nnael / Nuel
-Location : Indonesia 🇮🇩
-Role     : Junior Backend Developer
-Email    : ellrz1718@gmail.com
-Portfolio: https://portfolio-nnael.vercel.app/
-Status   : Open to Collaborate 🤝
+<img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width=200px>
+
+<p>
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<em><b>PPLG Student at SMK Bakti Nusantara 666</b> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></em>
+</p>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=trebuchet+ms&color=%23FFA500&size=35&center=false&vCenter=false&width=600&lines=Junior+Backend;Game+Server+Infrastructure+Enthusiast;Web+Development;Always+Learning+New+Things)](https://git.io/typing-svg)
+
+- 🔭 I'm currently working on **GameLib** - Personal Game Library & Tracker
+- 🌱 I'm currently learning **Next.js & Tailwind CSS**
+- 👯 I'm looking to collaborate on **Open Source Projects**
+- 💬 Ask me about **PHP, React, Laravel, Flutter, Phalcon**
+- ⚡ Fun fact: **I code better with chill beats playing! 🎵**
+- 🎯 Goal: **Building digital solutions that make a difference**
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
+
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills & Technologies</b>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=php,laravel,mysql,js,react,nextjs,tailwind,bootstrap,docker,postman,git,github,vscode,linux&perline=7" />
+</a>
+</p>
+
+<div align="center">
+  <img src="https://techstack-generator.vercel.app/php-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/laravel-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/tailwind-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/prettier-icon.svg" alt="icon" width="50" height="50" />
+</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
+
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Featured Projects </b>
+<div align="center">
+  <table>
+    <tr>
+      <td width="50%">
+        <h3 align="center">🎮 Game Tracker - Personal Library</h3>
+        <div align="center">  
+          <a href="https://github.com/immanuell18/game-tracker" target="_blank"><img src="https://img.shields.io/badge/📁%20Repository-FF6B6B?style=for-the-badge&logo=github&logoColor=white" alt="Repository"/></a>
+          <br><br>
+          <p><strong>🚀 React • CSS • JavaScript</strong></p>
+          <p>Platform personal buat nyatet dan monitoring daftar game yang lagi dimainin atau udah tamat. Fokus ke UI yang clean!</p>
+        </div>
+      </td>
+      <td width="50%">
+        <h3 align="center">☕ Cafe Tahura - POS System</h3>
+        <div align="center">  
+          <a href="https://github.com/immanuell18" target="_blank"><img src="https://img.shields.io/badge/💼%20Intern%20Project-4ECDC4?style=for-the-badge&logo=php&logoColor=white" alt="Internship"/></a>
+          <br><br>
+          <p><strong>⚡ Phalcon Framework • PHP • MySQL</strong></p>
+          <p>Sistem Point of Sale (Kasir) yang gue bangun pas lagi magang. Pake Phalcon biar performanya kenceng buat transaksi!</p>
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%">
+        <h3 align="center">🏆 Web Programming - Laravel Expert</h3>
+        <div align="center">  
+          <a href="https://github.com/immanuell18" target="_blank"><img src="https://img.shields.io/badge/🥇%201st%20Winner-45B7D1?style=for-the-badge&logo=laravel&logoColor=white" alt="Winner"/></a>
+          <br><br>
+          <p><strong>🎨 Laravel • PHP • Bootstrap</strong></p>
+          <p>Project juara 1 lomba Web Programming tingkat SMK. Nunjukin implementasi CRUD dan logic backend yang solid.</p>
+        </div>
+      </td>
+      <td width="50%">
+        <h3 align="center">🛠️ Minecraft Server - Modding</h3>
+        <div align="center">  
+          <a href="https://github.com/immanuell18" target="_blank"><img src="https://img.shields.io/badge/🎮%20Game%20Dev-96CEB4?style=for-the-badge&logo=minecraft&logoColor=white" alt="Minecraft"/></a>
+          <br><br>
+          <p><strong>📚 Java • Forge • Fabric</strong></p>
+          <p>Eksperimen konfigurasi server Minecraft, optimasi plugin (Geyser, EssentialsX), dan setup modpack custom.</p>
+        </div>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
+
+## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;***My Development Process***
+
+```mermaid
+graph LR
+    A[🎯 Vision & Blueprint] --> B[💻 Code & Creativity]
+    B --> C[🔄 Iterate & Innovate]
+    C --> D[🚀 Launch & Elevate]
+    
+    style A fill:#ff6b6b
+    style B fill:#4ecdc4  
+    style C fill:#45b7d1
+    style D fill:#96ceb4
 ```
 
-- 🔭 Currently working on **[Game Lib](https://gamelib-nnael.vercel.app/)** — a game library web app
-- 🌱 Currently leveling up in **React, Advanced Laravel & System Security**
-- 👯 Looking to collaborate on **Open Source Projects & Web Development**
-- 🤝 Looking for help with **Advanced Backend Architecture**
-- 💬 Ask me about **PHP, Laravel, Phalcon, and Minecraft Servers**
-- ⚡ Fun fact: **I think I'm funny & I'm great at teamwork 😄**
-
----
-
-## 🏆 GitHub Trophies
-
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=immanuell18&theme=tokyonight&no-frame=true&margin-w=4&column=6" alt="GitHub Trophies"/>
-</div>
-
----
-
-## 🛠️ Tech Stack & Tools
-
-### 🌐 Frontend
-<p align="left">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D"/>
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
-</p>
-
-### ⚙️ Backend
-<p align="left">
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-</p>
-
-### 🗄️ Database & Cloud
-<p align="left">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
-</p>
-
-### 🧰 Tools & Others
-<p align="left">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white"/>
-</p>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=immanuell18&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9"/>
-  &nbsp;
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=immanuell18&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
 </div>
 
 <div align="center">
-  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=immanuell18&theme=tokyonight&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff6b6b&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=58a6ff&sideLabels=58a6ff&dates=8b949e" alt="GitHub Streak"/>
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </div>
 
----
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> GitHub Analytics </b>
 
-## 📈 Contribution Graph
+<p align="center">
+  <a href="https://github.com/immanuell18">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=immanuell18&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/><img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=immanuell18&layout=compact&langs_count=8&theme=algolia"/>
+  </a>
+</p>
 
 <div align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=immanuell18&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ff6b6b&area=true&hide_border=true" alt="Contribution Graph"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=immanuell18&theme=algolia" alt="GitHub Streak"/>
 </div>
 
----
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=immanuell18&theme=react-dark&hide_border=true" alt="GitHub Activity Graph"/>
+</div>
 
-## 🌐 Connect With Me
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
+
+## <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80"><b> Let's Connect!</b>
 
 <div align="center">
   <a href="https://portfolio-nnael.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+    <img src="https://img.shields.io/badge/🌐%20Portfolio-FF6B6B?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
   </a>
-  &nbsp;
-  <a href="https://instagram.com/nuelg_" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
-  &nbsp;
-  <a href="https://twitter.com/choco_cream18" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
-  </a>
-  &nbsp;
-  <a href="https://fb.com/immanuel lumban gaol" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
-  </a>
-  &nbsp;
   <a href="mailto:ellrz1718@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+    <img src="https://img.shields.io/badge/📧%20Email-4ECDC4?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
+  <a href="https://instagram.com/nuelg_" target="_blank">
+    <img src="https://img.shields.io/badge/📷%20Instagram-96CEB4?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  <a href="https://twitter.com/choco_cream18" target="_blank">
+    <img src="https://img.shields.io/badge/🐦%20Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+  </a>
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=16&fontAlignY=75&animation=twinkling&fontColor=gradient" width="100%"/>
 </div>
 
 ---
 
-## ☕ Support Me
-
 <div align="center">
-  <a href="https://www.buymeacoffee.com/nuelg">
-    <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee"/>
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=immanuell18&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/immanuell18?label=Followers&style=social" alt="GitHub Followers" />
 </div>
 
----
-
-<!-- Animated Wave Footer -->
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0d1117&height=120&section=footer&animation=fadeIn"/>
-  
-  <p><i>⭐ Star my repos if you find them useful! Let's build something awesome together 🚀</i></p>
+  <h2>🎵 "Code better with chill beats" 🎵</h2>
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="400" alt="Music Animation"/>
+</div>
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=A9FEF7&center=true&vCenter=true&width=435&lines=⭐+Star+my+repos+if+you+like+them!;🤝+Let's+collaborate+on+projects!;💬+Always+open+to+discussions!" alt="Typing SVG" />
 </div>
