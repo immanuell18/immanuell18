@@ -1,7 +1,7 @@
 # <div align="center">🚀 Welcome to Immanuel Github 🚀</div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Hey+there!+I'm+Immanuel+Lumban+Gaol+%F0%9F%91%8B;Full+Stack+Developer+%F0%9F%92%BB;UI%2FUX+Enthusiast+%F0%9F%8E%A8;Computer+Science+Student+%F0%9F%8E%93;Building+Digital+Solutions+%F0%9F%8C%9F" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Hey+there!+I'm+Immanuel+Lumban+Gaol+%F0%9F%91%8B;Full+Stack+Developer+%F0%9F%92%BB;UI%2FUX+Enthusiast+%F0%9F%8E%A8;Junior+Backend+Developer+%F0%9F%8E%93;Building+Digital+Solutions+%F0%9F%8C%9F" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -17,7 +17,7 @@
 <em><b>PPLG Student at SMK Bakti Nusantara 666</b> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></em>
 </p>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=trebuchet+ms&color=%23FFA500&size=35&center=false&vCenter=false&width=600&lines=Junior+Backend;Game+Server+Infrastructure+Enthusiast;Web+Development;Always+Learning+New+Things)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=trebuchet+ms&color=%23FFA500&size=35&center=false&vCenter=false&width=600&lines=Junior+Backend+Developer;Game+Server+Infrastructure+Enthusiast;Web+Development;Always+Learning+New+Things)](https://git.io/typing-svg)
 
 - 🔭 I'm currently working on **GameLib** - Personal Game Library & Tracker
 - 🌱 I'm currently learning **Next.js & Tailwind CSS**
