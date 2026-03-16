@@ -39,12 +39,12 @@
 </p>
 
 <div align="center">
-  <img src="https://techstack-generator.vercel.app/php-icon.svg" alt="icon" width="50" height="50" />
-  <img src="https://www.svgrepo.com/show/473693/laravel.svg" alt="icon" width="50" height="50" />
+  <img src="https://www.svgrepo.com/show/373966/php.svg" alt="icon" width="50" height="50" />
+  <img src="https://www.svgrepo.com/show/376332/laravel.svg" alt="icon" width="50" height="50" />
   <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="50" height="50" />
   <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="50" height="50" />
   <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="50" height="50" />
-  <img src="https://www.svgrepo.com/show/333609/tailwind-css.svg" alt="icon" width="50" height="50" />
+  <img src="https://www.svgrepo.com/show/374118/tailwind.svg" alt="icon" width="50" height="50" />
   <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="50" height="50" />
   <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="50" height="50" />
   <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="50" height="50" />
